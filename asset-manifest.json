@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba1334dc.css",
+    "main.js": "/static/js/main.f4de7719.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/home-image.jpg": "/static/media/home-image.7590a329ad2589390646.jpg",
+    "static/media/glass-orange-juice-placed-wood.jpg": "/static/media/glass-orange-juice-placed-wood.0a202e85791df699e561.jpg",
+    "static/media/pineapple.jpg": "/static/media/pineapple.870330e2a129db7d27f7.jpg",
+    "static/media/closeup-shot-oranges-top-each-other-white-surface-great-background.jpg": "/static/media/closeup-shot-oranges-top-each-other-white-surface-great-background.52381f781432c89e302a.jpg",
+    "static/media/burger.jpg": "/static/media/burger.4ba5e35ca03e7b38fb5f.jpg",
+    "static/media/guava.webp": "/static/media/guava.9b705bfe034d5feffb65.webp",
+    "static/media/fruit juice.webp": "/static/media/fruit juice.f2d303ed1bbc7d80eb25.webp",
+    "static/media/freshmeet.webp": "/static/media/freshmeet.9fdf3968084079b72ccb.webp",
+    "static/media/guava.jfif": "/static/media/guava.90abd63a8ad063f0ecd8.jfif",
+    "static/media/USA.webp": "/static/media/USA.7636e243352ba40901d6.webp",
+    "static/media/pawpaw.jpg": "/static/media/pawpaw.d39c0bab8b21987e00b2.jpg",
+    "static/media/water melon.webp": "/static/media/water melon.eef0c49b27abff0e5fd5.webp",
+    "static/media/apple.webp": "/static/media/apple.b57f8bb94d968b9233f1.webp",
+    "static/media/plantain.jpg": "/static/media/plantain.220ab20a258216fe3140.jpg",
+    "static/media/France.webp": "/static/media/France.4ae524c26f9f6e7e532c.webp",
+    "static/media/square-instagram.svg": "/static/media/square-instagram.cd7c56d1b96ac5cbc05ba646edfde24e.svg",
+    "static/media/twitter.svg": "/static/media/twitter.2ee4044b34e347393a7c55e49a299d8a.svg",
+    "index.html": "/index.html",
+    "static/media/facebook-f.svg": "/static/media/facebook-f.f9b1edff2baffd70adbfa53037856b56.svg",
+    "main.ba1334dc.css.map": "/static/css/main.ba1334dc.css.map",
+    "main.f4de7719.js.map": "/static/js/main.f4de7719.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba1334dc.css",
+    "static/js/main.f4de7719.js"
+  ]
+}
